@@ -3,7 +3,7 @@
   "component": true,
   "license_url": "https://github.com/tshenry/discourse-alternative-voting-category-style/blob/main/LICENSE",
   "about_url": "https://meta.discourse.org/t/alternative-voting-category-style/101532",
-  "authors": "tshenry",
+  "authors": "tshenry", "Samyoul",
   "modifiers": {
     "serialize_topic_excerpts": true
   },
